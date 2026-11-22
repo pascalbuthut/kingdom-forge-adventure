@@ -2,7 +2,7 @@
 
 **Erz abbauen, schmieden, verkaufen, automatisieren!**
 
-Du bist ein Zwerg und übernimmst die alte Schmiede im Bergdorf Tiefenbrunn. Du gräbst Erz in der Mine, schmilzt es zu Barren und schmiedest daraus Schwerter, Äxte, Helme und Spitzhacken. Im eigenen Laden handelst du mit der Kundschaft um jeden Preis. Mit jedem guten Stück wächst dein Ruf. Bald arbeiten Gehilfen für dich, Bohrer fressen sich durch den Fels, und irgendwann reitest du in die Marktstadt Eisenfurt. Am Ende ruft dich König Balduin an seinen Hof nach Hohenkron.
+Du bist ein Zwerg und übernimmst die alte Schmiede im Bergdorf Tiefenbrunn. Du gräbst Erz in der Mine, schmilzt es zu Barren und schmiedest daraus Schwerter, Äxte, Helme und Spitzhacken. Im eigenen Laden handelst du mit der Kundschaft um jeden Preis. Mit jedem guten Stück wächst dein Ruf. Bald arbeiten Gehilfen für dich, Bohrer fressen sich durch den Fels, und irgendwann reitest du in die Marktstadt Eisenfurt und weiter in die Residenzstadt Hohenkron.
 
 ![Das Bergdorf Tiefenbrunn](bilder/dorf.jpg)
 
@@ -51,7 +51,7 @@ Reicht dein Ruf über das Tal hinaus, reitest du in die Stadt. Dort gibt es mehr
 
 ![Vor der Torburg von Hohenkron](bilder/hohenkron.jpg)
 
-Mit dem Meisterbrief lädt dich ein Herold an den Hof. In Hohenkron dienst du König Balduin: Du sammelst Gunst, lieferst Waffen für die Krone und rüstest Ritter für das Turnier aus. Koggen tragen deine Ware in ferne Reiche, Gesellen schmieden für dich in der Riesenschmiede, und aus der Kobaltgrube holst du das Erz für Kobaltstahl. Der Magier Zacharias verzaubert deine Waffen, an der Kathedrale baust du mit. Und wer den Hof ganz für sich gewinnt, trägt am Ende selbst die Krone.
+Später führt dich der Weg in die Stadt des Königs. Dort lernst du König Balduin und seinen Hof kennen. Hohenkron hat eine riesige Schmiede, eine eigene Grube, einen Hafen, ein Turnierfeld und am See einen alten Magierturm.
 
 ## Ausblick
 
@@ -60,8 +60,8 @@ Darauf arbeitest du hin.
 | | |
 |---|---|
 | ![Die Grubenbahn](bilder/ausblick-grube.jpg) **Die Grubenbahn**<br>Das Bergamt verkauft dir Bohrrechte. Bohrer und Loren holen das Erz, während du schmiedest. | ![Die Marktstadt Eisenfurt](bilder/ausblick-stadt.jpg) **Die Marktstadt Eisenfurt**<br>Reicht dein Ruf über das Tal hinaus, reitest du in die Stadt. Dort warten die Große Schmiede mit ihrer Maschine, ein Kontor und Stahl aus dem Eisenstollen. |
-| ![Meisterstücke](bilder/ausblick-meister.jpg) **Meisterstücke**<br>Mit dem Meisterbrief der Gilde werden deine Bauteile meisterlich. Vier davon ergeben ein Meisterwerk. | ![Der Magierturm](bilder/ausblick-zauber.jpg) **Der Magierturm**<br>Am See von Hohenkron wohnt der Magier Zacharias. Weck seinen Kristall, dann verzaubert er deine Waffen. |
-| ![Die Krone](bilder/ausblick-krone.jpg) **Die Krone**<br>Diene König Balduin am Hof von Hohenkron und gewinn das Große Turnier. Am Ende setzt er dir seine Krone auf. | ![Der Dom](bilder/ausblick-dom.jpg) **Der Dom**<br>Mit Gold, Barren und Juwelen baust du die Kathedrale von Hohenkron fertig. Jeder Abschnitt bringt dir Segen. |
+| ![Meisterstücke](bilder/ausblick-meister.jpg) **Meisterstücke**<br>Mit dem Meisterbrief der Gilde werden deine Bauteile meisterlich. Vier davon ergeben ein Meisterwerk. | ![Der Magierturm](bilder/ausblick-zauber.jpg) **Der Magierturm**<br>Am See von Hohenkron steht ein alter Turm. Dort wohnt ein Magier. |
+| ![Der Hof des Königs](bilder/ausblick-hof.jpg) **Der Hof des Königs**<br>In der Residenzstadt Hohenkron lernst du König Balduin kennen. Seine Gunst ist viel wert. | ![Der Dom](bilder/ausblick-dom.jpg) **Der Dom**<br>Die Kathedrale von Hohenkron ist noch nicht fertig. Die Baumeisterin sucht Hilfe. |
 
 ## Gemacht aus Code
 
